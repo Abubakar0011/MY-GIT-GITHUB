@@ -11,5 +11,3 @@ for i in list1:
 			fnf_lst.append(i)
 
 print("Shhh!! I am doing git......")
-
-
